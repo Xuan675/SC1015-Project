@@ -24,7 +24,7 @@ This is our content for our project on how we went about doing the project.
 8. Comparing Sex vs Survival on actual test data
 9. Conclusion
 
-# Models/Classificaitons used
+# Models/Classifiers used
 1. Logistic Regression
 2. KNN or k-Nearest Neighbors
 3. Support vector machines
