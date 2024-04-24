@@ -14,12 +14,14 @@ To find out what is the best prediction model and the best predictor to predict 
 
 # Content Page
 This is our content for our project on how we went about doing the project.
-1. Importing data
-2. Cleaning data
-3. Data Analysis
-4. Choosing the best model
-5. Finding individual predictor that best predict survival
-6. Comparing Sex vs Survival on actual test data
+1. Import required libraries
+2. Importing data
+3. Data Preparation
+4. Data Visualization and Analysis
+5. Split Training and Test data
+6. Choosing the best model
+7. Finding individual predictor that best predict survival
+8. Comparing Sex vs Survival on actual test data
 
 # Models/Classificaitons used
 1. Logistic Regression
