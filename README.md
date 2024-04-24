@@ -6,9 +6,9 @@ This is our Mini-Project for SC1015 which focus on predicting the survial rate o
 
 For detailed walkthrough, please view the source code in order from:
 1. [Mini-Project_1_Data_Preperation](https://github.com/Xuan675/SC1015-Project/blob/main/Mini-Project_1_Data_Preperation.ipynb)
-2. [Mini-Project_2_Data_Visualization] (https://github.com/Xuan675/SC1015-Project/blob/main/Mini-Project_2_Data_Visualization.ipynb)
-3. [Mini-Project_3_Finding_Best_Model] (https://github.com/Xuan675/SC1015-Project/blob/main/Mini-Project_3_Finding_Best_Model.ipynb)
-4. [Mini-Project_FinalSolution] (https://github.com/Xuan675/SC1015-Project/blob/main/Mini-Project_FinalSolution.ipynb)
+2. [Mini-Project_2_Data_Visualization](https://github.com/Xuan675/SC1015-Project/blob/main/Mini-Project_2_Data_Visualization.ipynb)
+3. [Mini-Project_3_Finding_Best_Model](https://github.com/Xuan675/SC1015-Project/blob/main/Mini-Project_3_Finding_Best_Model.ipynb)
+4. [Mini-Project_FinalSolution](https://github.com/Xuan675/SC1015-Project/blob/main/Mini-Project_FinalSolution.ipynb)
 
 # Contributors
 1. Tham Mao Hen - Data Visualization
