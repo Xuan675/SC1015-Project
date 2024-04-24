@@ -53,3 +53,4 @@ In terms of what these conclusions tells us about the dataset, we can conclude t
 # References
 https://www.kaggle.com/competitions/titanic
 https://www.datacamp.com/tutorial/understanding-logistic-regression-python
+https://www.analyticsvidhya.com/blog/2021/06/understanding-random-forest/
