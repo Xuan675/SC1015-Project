@@ -1,17 +1,20 @@
 # SC1015 Data Science Project - Titanic
 
 # About
-This is our Mini-Project for SC1015 which focus on predicting the survial rate of passengers in Titanic. This is our content.
+This is our Mini-Project for SC1015 which focus on predicting the survial rate of passengers in Titanic. 
 ![alt text](https://services.meteored.com/img/article/titanic-10-curiosidades-sobre-el-naufragio-mas-famoso-de-la-historia-1681429632845_768.jpg)
+
+# Problem Statement
+To find out what is the best prediction model and the best predictor to predict the survival rate of the passengers on the Titanic. 
+
+# Content Page
+This is our content for our project on how we went about doing the project.
 1. Importing data
 2. Cleaning data
 3. Data Analysis
 4. Choosing the best model
 5. Finding individual predictor that best predict survival
 6. Comparing Sex vs Survival on actual test data
-
-# Problem Statement
-To find out what is the best prediction model and the best predictor to predict the survival rate of the passengers on the Titanic. 
 
 # Algorithms used
 1. Logistic Regression
@@ -21,4 +24,3 @@ To find out what is the best prediction model and the best predictor to predict 
 5. Decision Tree
 6. Random Forest
 7. Perceptron
-
