@@ -29,3 +29,14 @@ This is our content for our project on how we went about doing the project.
 5. Decision Tree
 6. Random Forest
 7. Perceptron
+
+# Conclusion
+Through the entire course the project, there are clear conclusions that we were able to draw from analyzing the datasets provided.
+
+1. It is clear to use that out of all the different Prediction models we've used, we have found that Random Forest Classification method has the highest accuracy for predicting the Survival of the people in our data set.
+
+2. We have also found that 3 predictors played an impactful part in the predictions, which are Sex,Pclass and Fare. With Sex being the best predictor out of the 3.
+
+3. One special case would be evidence of people aged 16 had a higher chance of survival when comparing to other ages based on the proportion of their sample size. This means that in general the youngest age group (age below 16) has a higher chance of survival.
+
+In terms of what these conclusions tells us about the dataset, we can conclude that during the tragic accident on the Titanic, woman and children's safety and wellbeing was prioritized, which would have explained the data we used.
