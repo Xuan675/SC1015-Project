@@ -22,6 +22,7 @@ This is our content for our project on how we went about doing the project.
 6. Choosing the best model
 7. Finding individual predictor that best predict survival
 8. Comparing Sex vs Survival on actual test data
+9. Conclusion
 
 # Models/Classificaitons used
 1. Logistic Regression
@@ -31,6 +32,12 @@ This is our content for our project on how we went about doing the project.
 5. Decision Tree
 6. Random Forest
 7. Perceptron
+
+# What did we learn from this project?
+1. Logistic Regression from sklearn
+2. Random Forest from sklearn
+3. Collaborating using GitHub
+4. Converting Numeric to Categorical
 
 # Conclusion
 Through the entire course the project, there are clear conclusions that we were able to draw from analyzing the datasets provided.
