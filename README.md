@@ -42,3 +42,6 @@ Through the entire course the project, there are clear conclusions that we were 
 3. One special case would be evidence of people aged 16 had a higher chance of survival when comparing to other ages based on the proportion of their sample size. This means that in general the youngest age group (age below 16) has a higher chance of survival.
 
 In terms of what these conclusions tells us about the dataset, we can conclude that during the tragic accident on the Titanic, woman and children's safety and wellbeing was prioritized, which would have explained the data we used.
+
+# References
+https://www.kaggle.com/competitions/titanic
