@@ -1,5 +1,5 @@
 # SC1015 Data Science Project - Titanic
----
+
 # About
 This is our Mini-Project for SC1015 which focus on predicting the survial rate of passengers in Titanic. This is our content.
 
