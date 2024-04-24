@@ -5,10 +5,11 @@ This is our Mini-Project for SC1015 which focus on predicting the survial rate o
 ![alt text](https://services.meteored.com/img/article/titanic-10-curiosidades-sobre-el-naufragio-mas-famoso-de-la-historia-1681429632845_768.jpg)
 
 For detailed walkthrough, please view the source code in order from:
-Mini-Project_1_Data_Preperation.ipynb
-Mini-Project_2_Data_Visualization.ipynb
-Mini-Project_3_Finding_Best_Model.ipynb
-Mini-Project_FinalSolution.ipynb
+
+Mini-Project_1_Data_Preperation
+Mini-Project_2_Data_Visualization
+Mini-Project_3_Finding_Best_Model
+Mini-Project_FinalSolution
 
 # Contributors
 1. Tham Mao Hen - Data Visualization
