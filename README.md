@@ -37,7 +37,7 @@ This is our content for our project on how we went about doing the project.
 1. Logistic Regression from sklearn
 2. Random Forest from sklearn
 3. Collaborating using GitHub
-4. Converting Numeric to Categorical
+4. Converting Numeric Data to Categorical Data
 
 # Conclusion
 Through the entire course the project, there are clear conclusions that we were able to draw from analyzing the datasets provided.
