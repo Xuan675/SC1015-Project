@@ -5,9 +5,9 @@ This is our Mini-Project for SC1015 which focus on predicting the survial rate o
 ![alt text](https://services.meteored.com/img/article/titanic-10-curiosidades-sobre-el-naufragio-mas-famoso-de-la-historia-1681429632845_768.jpg)
 
 # Contributors
-1. Tham Mao Hen
-2. Ng Yi Xiang
-3. Law Zhi Xuan
+1. Tham Mao Hen - Data Visualization
+2. Ng Yi Xiang - Data Cleaning, Data Extraction
+3. Law Zhi Xuan - Model Implementation
 
 # Problem Statement
 To find out what is the best prediction model and the best predictor to predict the survival rate of the passengers on the Titanic. 
